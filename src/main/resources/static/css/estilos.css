@@ -1,0 +1,52 @@
+/*
+
+
+*/
+/* 
+
+    Created on : 24 jun. 2022, 20:51:05
+
+
+    Author     : kebelth
+
+*/
+
+#encabezado{
+    position: absolute;
+    top: 0;
+    left:0;
+    height: 8%;
+    width: 100%;
+    background-color: blueviolet;
+    color: greenyellow;
+    
+}
+
+#encabezado h1{
+    display: inline;
+}
+
+#menu{
+    position: absolute;
+    top: 8%;
+    left:0;
+    height: 4%;
+    width: 100%;
+    background-color: black;
+    color: white;
+}
+
+
+body{
+    background: #9AC92A;
+}
+
+
+#encabezadoTabla{
+    background-color: blue;
+     color: green;   
+}
+#tablaresumen{
+    background-color: coral;
+    color: green;
+}
